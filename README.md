@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Person 1: Hi! I'm James. I'm a fifth year biochem major. This is my first time doing anything like DATA 301, so this should be fun! 
 - Person 2: one sentence about you!
 - Person 3: Hi! My name is Nadine and I am a second year Psychology major :) 
 
