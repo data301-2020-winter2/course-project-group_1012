@@ -1,12 +1,15 @@
-Rough Draft
-Who: Which company/agency/organization provided this data?
-Government of Canada
-What: What is in your data?
-Rate of precipitation in Canadian cities
-When: When was your data collected (for example, for which years)?
-1970 - 2020
+ANSWER ALL QUESTIONS
+(answered) Who: Which company/agency/organization provided this data?
+           Government of Canada
+(answered) What: What is in your data?
+           Rate of precipitation in Canadian cities
+(answered) When: When was your data collected (for example, for which years)?
+           1970 - 2020
 Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
 To address the issue of climate change together with our interest to learn more in the field
 How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
 The Environment Canada networks use automated total precipitation weighing gauges (Geonor & Pluvio) which determine precipitation amounts through weight change. 
 These gauges report total precipitation amounts hourly, in millimetres.
+
+FIRST DRAFT
+In addressing climate change, we are studying the precipitation in Canadian cities as it has a direct, positive correlation with the rising temperature of our atmosphere. The data set we chose is the Canadian Climate History that the Canadian government published. Through this data set, we can observe the average and total precipitation of Canadian cities in all provinces at midnight every day from 1970 up to 2020. The Environment Canada networks obtained the data using automated weighing gauges, Geonor and Pluvio, that logs the precipitation through the weight changes. 
