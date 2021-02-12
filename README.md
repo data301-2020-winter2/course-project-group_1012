@@ -24,4 +24,5 @@ In addressing climate change, we are studying the precipitation in Canadian citi
 ## References
 
 Government of Canada. (n.d.). Daily Climate Data. https://climate-change.canada.ca/climate-data/#/daily-climate-data
+
 Government of Canada. (2018, August 14). Weather tools: frequently asked questions. https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/frequently-asked-questions.html
