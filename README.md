@@ -18,7 +18,7 @@ In addressing climate change, we are studying the precipitation in Canadian citi
 ## Team Members
 
 - Person 1: Hi! I'm James. I'm a fifth year biochem major. This is my first time doing anything like DATA 301, so this should be fun! 
-- Person 2: one sentence about you!
+- Person 2: Hello, my name is Colin. I'm a fifth year accounting student who is new to coding, but interested in data and statistics (as well as weather). I'm looking forward to making some meaningful conclusions and analyzing trends in Canada's climate over the past 50 years.
 - Person 3: Hi! My name is Nadine and I am a second year Psychology major :) 
 
 ## References
