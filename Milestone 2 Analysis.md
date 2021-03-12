@@ -17,6 +17,7 @@ After dropping null values, we simplified our data by grouping the different cit
  - Quebec 
  - The Atlantic Provinces 
  - The Northern Provinces
+
 This simplifies the data as it summarizes the dataset, allowing us to analyze the data. 
 
 *Filtering Temperature Data by Month*
