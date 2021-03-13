@@ -2,19 +2,20 @@ def load_and_process(url_or_path_to_csv_file):
     # Method Chain 1 (Load data, deal with missing data, and making data readable)
     df1 = (
         pd.read_csv(url_or_path_to_csv_file)
-        .dropna()
         .rename(columns ={"LOCAL_DATE":"DATE"})
         .sort_values("DATE", ascending=False)
+        .dropna()
         .reset_index(drop = True)
-        
-      )
+         )
     return df1
 
 #Method Chain 2 (Creating new columns for different regions of Canada)
 def group_columns(df):
     df2 = (
-        #create new columns that take mean temperature and percipitation from Atlantic Provinces 
         df
+        #convert Date to Datetime 
+        .assign(DATE = pd.to_datetime(df1['DATE']))
+        #create new columns that take mean temperature and percipitation from Atlantic Provinces 
         .assign(TEMPERATURE_ATLANTIC = (df.iloc[:, [5, 7, 17]].mean(axis=1)).round(decimals=1))
         .assign(PERCIPITATION_ATLANTIC = (df.iloc[:, [6, 8, 18]].mean(axis=1)).round(decimals=1))
         

@@ -1,0 +1,13 @@
+DESCRIBING DATA SET
+In addressing climate change, we are studying the precipitation in Canadian cities as it has a direct, positive correlation with the rising temperature of our 
+atmosphere. The data set we chose is the Canadian Climate History published by the Canadian Government. Through this data set, we can observe the average and total 
+precipitation of Canadian cities in all provinces at midnight every day from 1970 up to 2020. The Canadian Climate History data is recorded by the Environment 
+Canada network using automated weighing gauges, Geonor and Pluvio, that logs the precipitation through the weight changes at a given period (Government of Canada, 
+2018). The columns of the data set present the precipitation trend, demonstrating the country's change in temperature. To illustrate, as our atmosphere's 
+temperature increases, more moisture and water are absorbed from the land; therefore, more rain will fall. Therefore, our data set's observation can indirectly 
+illustrate the changes in temperature in the country.
+
+REFERENCES
+Government of Canada. (n.d.). Daily Climate Data. https://climate-change.canada.ca/climate-data/#/daily-climate-data
+Government of Canada. (2018, August 14). Weather tools: frequently asked questions. https://www.canada.ca/en/environment-climate-change/services/weather-general-
+tools-resources/frequently-asked-questions.html
